@@ -28,7 +28,7 @@ Information to run TOS or Terra-Master OS in a VM
   - Then exit the terminal and shutdown the vm.
   - Now you'll have a working USB Image to use with a VM to run the TOS or Terra-Master OS.
 
-If you want to skip these steps I'll include a prebuilt image that I made. It's named tnas-usb-32gb.img and is 32GB in size in the repo.
+If you want to skip these steps I'll include a prebuilt image that I made. It's named tnas-usb-32gb.img.xz and is in the repo. You'll need to decompress it first.
 
 ## Running the VM
 - Running with Virt Manager
